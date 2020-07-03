@@ -79,7 +79,7 @@ If you would like to see my work on a large scale, I would encourage you to peek
   + In my internship I would regularly run scripts that would take several hours to complete and wanted a way to notify me when they completed.
 
 * ### About 
-  + This script uses a gmail account to send "text" messages to a cell phone number.  If I wanted to scale it up, I could use the API for https://www.freecarrierlookup.com/ but since it was just for myself I didn't need to.
+  + This script uses a gmail account to send text messages to a cell phone number.  If I wanted to scale it up, I could use the API for https://www.freecarrierlookup.com/ but since it was just for myself I didn't need to.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![text-from-gmail](repo_pics/gmail_to_text.png)
 
