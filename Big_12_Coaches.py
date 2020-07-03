@@ -18,7 +18,6 @@ big12 = ["https://en.wikipedia.org/wiki/Oklahoma_Sooners_football",
          
 #Do this for each school in the big12 list
 for school in big12:
-    #Make attempt at opening url, doesnt always work based on security
     try:
         with urlopen(school) as response:
             #convert html to soup
@@ -35,12 +34,9 @@ for school in big12:
                 i = 0
                 for word in wordList:
                     if "coach" in word:
-                        #remove coach from the word
                         word = word.replace("coach","")
-                        #display output
                         print(wordList[0],wordList[1],"- ",word, wordList[i+1])
                     i = i+1
-    #handle the cases that cannot open by cleaning letting the user know it could not open
     except:
         print("error opening")
 
