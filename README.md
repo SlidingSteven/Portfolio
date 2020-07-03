@@ -8,7 +8,7 @@ Typically, I use the [Security Question Evaluator](https://github.com/SlidingSte
   + [SecurityQuestionEvaluator](#SecurityQuestionEvaluator)
   + [WCAGCompChecker](#WCAGCompChecker)
   + [IHubPublicVideoRecorder](#IHubPublicVideoRecorder)
-* [fitbit_API_demo.py](#fitbit_api_demo.py)
+* [fitbit_API_demo.py](#fitbit_api_demopy)
   + [Motivation](#motivation)
   + [About](#about)
 * [spotify_API_Demo.py](#spotify_api_demopy)
