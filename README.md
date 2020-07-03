@@ -2,6 +2,8 @@
 
 Typically, I use the [Security Question Evaluator](https://github.com/SlidingSteven/SecurityQuestionEvaluator) app as my "go-to" project, but an external dependency has been giving us issues so I decided it would be a good opportunity to showcase some of the other work I have done.
 
+I've been involved in some pretty cool larger projects and recently I've tried to learn news ways to interact with different APIs that I may be able to apply to something bigger eventually.
+
 ## Table of Contents
 * [Bigger Projects](#bigger-projects)
   + [CenturyLink Automation Project](#CenturyLink-Automation-Project)
@@ -20,9 +22,12 @@ Typically, I use the [Security Question Evaluator](https://github.com/SlidingSte
 * [gmail_to_text.py](#gmail_to_textpy)
   + [Motivation](#motivation-3)
   + [About](#about-3)
-* [Big_12_Coaches.py](#big_12_coachespy)
+* [sqschecker-tests.py](#sqschecker-testspy)
   + [Motivation](#motivation-4)
   + [About](#about-4)
+* [Big_12_Coaches.py](#big_12_coachespy)
+  + [Motivation](#motivation-5)
+  + [About](#about-5)
 * [Deal with any Math?](#deal-with-any-math)
 
 ## Bigger Projects  
@@ -83,6 +88,14 @@ If you would like to see my work on a large scale, I would encourage you to peek
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![text-from-gmail](repo_pics/gmail_to_text.png)
 
+## sqschecker-tests.py
+
+* ### Motivation
+  + When rolling out changes to the site, this program was useful in testing all routes and most use cases to be sure everything remained functional.
+
+* ### About
+  + This script will use the requests library to ping each route and then will use Selenium to enter Conan O'Brien's name and zipcode into the search fields.
+  
 
 ## Big_12_Coaches.py
 
