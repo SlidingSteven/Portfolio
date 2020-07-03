@@ -4,13 +4,6 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import re
 
-#case for texas.
-def texas_sucks():
-    return """
-    
-No info to return, texas sucks
-
-"""
 
 #List of Big 12 football wikipedias to search through.  Yes there are only 10 teams in the big 12...
 big12 = ["https://en.wikipedia.org/wiki/Oklahoma_Sooners_football",
@@ -40,22 +33,24 @@ for school in big12:
                 
                 #start counter
                 i = 0
-
-                #handle Texas Longhorn case
-                if "Longhorns" in wordList[1]:
-                    tex = texas_sucks()
-                    print(tex)
-
-                #search for coach
-                else:
-                    for word in wordList:
-                        if "coach" in word:
-                            #remove coach from the word
-                            word = word.replace("coach","")
-                            #display output
-                            print(wordList[0],wordList[1],"- ",word, wordList[i+1])
-                        i = i+1
+                for word in wordList:
+                    if "coach" in word:
+                        #remove coach from the word
+                        word = word.replace("coach","")
+                        #display output
+                        print(wordList[0],wordList[1],"- ",word, wordList[i+1])
+                    i = i+1
     #handle the cases that cannot open by cleaning letting the user know it could not open
     except:
         print("error opening")
 
+# --- Expected Output ---
+# Oklahoma Sooners -  Lincoln Riley
+# Baylor Bears -  Dave Aranda
+# Iowa State -  Matt Campbell
+# Kansas Jayhawks -  Les Miles
+# Oklahoma State -  Mike Gundy
+# TCU Horned -  Gary Patterson
+# Texas Tech -  Matt Wells
+# West Virginia -  Neal Brown
+# Texas Longhorns -  Tom Herman
