@@ -99,7 +99,11 @@ print("Augmented\n", Augmented)
 print("Final Answer- Result of backsub: \n", BackwardsSubstitution(Augmented), "\n\n")
 #PROBLEM 3C
 print("PROBLEM 3c) i:")
+<<<<<<< HEAD
 A = numpy.loadtxt('numerical_files/lab2mat.txt') 
+=======
+A = numpy.loadtxt('lab2mat.txt') 
+>>>>>>> fa9bfceb818b75d7783748369b42281da70ec0e4
 Qc, Rc = classicalGS(A)
 Qm, Rm = modifiedGS(A)
 
@@ -134,7 +138,11 @@ print("Q:    Are Qc and Qm approximately orthogonal?")
 print("A:    Yes they are approximately orthoganal\n\n")
 
 #Lab2btxt
+<<<<<<< HEAD
 B = numpy.loadtxt('numerical_files/lab2b.txt') 
+=======
+B = numpy.loadtxt('lab2b.txt') 
+>>>>>>> fa9bfceb818b75d7783748369b42281da70ec0e4
 Q, R = classicalGS(A)
 QTB = numpy.matmul(Q.transpose(),B)
 QTB = numpy.array([QTB.tolist()])
