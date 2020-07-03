@@ -1,0 +1,658 @@
+BRANCH_NAME: ProductionBranch
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T18:47:35Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Rough draft of the project',
+ 'COMMIT SHA--- ': {'sha': '92bff2d8a3528584432b0da9ba307305da691d3c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/92bff2d8a3528584432b0da9ba307305da691d3c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:09:07Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Clarifying what I said in the READme.md',
+ 'COMMIT SHA--- ': {'sha': '9fd519338bfefa9feaf84faa815352548e54cdf5',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9fd519338bfefa9feaf84faa815352548e54cdf5'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:05:31Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding template content to the site and some extra '
+                       'detail to the README.md',
+ 'COMMIT SHA--- ': {'sha': 'ea27c67886ec4647bd9fd9b219277676ac16a0af',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/ea27c67886ec4647bd9fd9b219277676ac16a0af'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:00:42Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding template content to the site',
+ 'COMMIT SHA--- ': {'sha': 'ee9c22b76cf5dd62383cd3577fa955cd110e3127',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/ee9c22b76cf5dd62383cd3577fa955cd110e3127'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:41:05Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': "Merge branch 'ProductionBranch' of "
+                       'https://github.com/SlidingSteven/SecurityQuestionEvaluator '
+                       'into ProductionBranch\n'
+                       'Merging the better formatted README with the new '
+                       'content.',
+ 'COMMIT SHA--- ': {'sha': '5c8a5b383423d6b0b686c9d3a08ff1c9790539f1',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/5c8a5b383423d6b0b686c9d3a08ff1c9790539f1'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:40:10Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing simple hello world flask app',
+ 'COMMIT SHA--- ': {'sha': 'c29a2f718225a2f4e718dfa13dcef2397eb7b668',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/c29a2f718225a2f4e718dfa13dcef2397eb7b668'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:15:53Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '9449a7aae2eef4a3e04be4040fa446fc07e9aaed',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9449a7aae2eef4a3e04be4040fa446fc07e9aaed'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:15:32Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '0493c53bbad49007b1c31e7a22e2a407befd60d0',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/0493c53bbad49007b1c31e7a22e2a407befd60d0'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:14:40Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '9125d062913165af443c4431ad449559c1e5ca10',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9125d062913165af443c4431ad449559c1e5ca10'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:08:08Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding some stuff for us to do',
+ 'COMMIT SHA--- ': {'sha': '239ed80d22c7d17edf8ee4e0ac4673e423ab7836',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/239ed80d22c7d17edf8ee4e0ac4673e423ab7836'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T22:50:57Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'First Commit',
+ 'COMMIT SHA--- ': {'sha': '1ad7e9de6fa141d3a0512ccfe8e7dcce7e4461ed',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/1ad7e9de6fa141d3a0512ccfe8e7dcce7e4461ed'}}
+
+BRANCH_NAME: activebranch
+{'COMMIT AUTHOR--- ': {'date': '2019-12-04T00:27:18Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'adding favicon',
+ 'COMMIT SHA--- ': {'sha': '1928bed147443de0b8dc701736a0d6d0d8e0354a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/1928bed147443de0b8dc701736a0d6d0d8e0354a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-04T00:23:01Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'adding favicon',
+ 'COMMIT SHA--- ': {'sha': '79f27c7e0a6c5b3568cea886fa059c0c3a777916',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/79f27c7e0a6c5b3568cea886fa059c0c3a777916'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-04T00:03:23Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'adding favicon',
+ 'COMMIT SHA--- ': {'sha': '1a258e220e8242549f5f2dfdb466df1f5ec4d5f3',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/1a258e220e8242549f5f2dfdb466df1f5ec4d5f3'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-04T00:01:57Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'added a favicon',
+ 'COMMIT SHA--- ': {'sha': '7822789d6ccd9ba4da8071ff63ec72549514c6a7',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/7822789d6ccd9ba4da8071ff63ec72549514c6a7'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:44:26Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'removed old pipfile and pip lock. This is the first '
+                       'reachable website',
+ 'COMMIT SHA--- ': {'sha': '9e4fc8c4cf22b87f446c29b88fbe4615ab465eec',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9e4fc8c4cf22b87f446c29b88fbe4615ab465eec'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:40:38Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'remove pip files',
+ 'COMMIT SHA--- ': {'sha': 'b81fba29e90caa81a62eae29938feddb1afc9ea5',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/b81fba29e90caa81a62eae29938feddb1afc9ea5'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:38:19Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'remove pip files',
+ 'COMMIT SHA--- ': {'sha': '3a12e99ed99e1e9d51c8b9d5c69b6dc04feba240',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/3a12e99ed99e1e9d51c8b9d5c69b6dc04feba240'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:33:23Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing port change',
+ 'COMMIT SHA--- ': {'sha': '72ae849d55f73fd842953caeb7fb426ba1f683f9',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/72ae849d55f73fd842953caeb7fb426ba1f683f9'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:30:05Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing port change',
+ 'COMMIT SHA--- ': {'sha': '8393fb3bbdebf13c435b85912179185b0cf0df29',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/8393fb3bbdebf13c435b85912179185b0cf0df29'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:20:32Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'retrying pipfile',
+ 'COMMIT SHA--- ': {'sha': '695abafb7504cd2fd4cd7785f04932b374a5ee4c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/695abafb7504cd2fd4cd7785f04932b374a5ee4c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:17:36Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Add gunicorn to pipfile',
+ 'COMMIT SHA--- ': {'sha': '13bed0b78e2fa9135482707d33b1016c018fe81a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/13bed0b78e2fa9135482707d33b1016c018fe81a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T20:18:51Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing more team page stuff',
+ 'COMMIT SHA--- ': {'sha': '0bedc791917aab95d7c7679212702ca651fd7178',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/0bedc791917aab95d7c7679212702ca651fd7178'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T20:11:25Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing more team page stuff',
+ 'COMMIT SHA--- ': {'sha': '60d08d2a4d44f89fa97834a08143da33fa0cc0d0',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/60d08d2a4d44f89fa97834a08143da33fa0cc0d0'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T20:06:36Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'added styling to team page',
+ 'COMMIT SHA--- ': {'sha': 'a7551c9adcacf41fc860909c743419d313d1e32a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/a7551c9adcacf41fc860909c743419d313d1e32a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T19:05:49Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'adding team route',
+ 'COMMIT SHA--- ': {'sha': '1f0422211fb33f752b84e763cf9bb21de92dc3b0',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/1f0422211fb33f752b84e763cf9bb21de92dc3b0'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-02T22:58:53Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding more html tables to the site but still need to '
+                       'be moved around to look better',
+ 'COMMIT SHA--- ': {'sha': 'cde8bab13930afba2cfda875fdbbad42ba158645',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/cde8bab13930afba2cfda875fdbbad42ba158645'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T18:48:37Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'center input boxes html',
+ 'COMMIT SHA--- ': {'sha': '5c245dfe0be2f03da1634231e79ece3525f76868',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/5c245dfe0be2f03da1634231e79ece3525f76868'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T18:00:24Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'added team.html page + images',
+ 'COMMIT SHA--- ': {'sha': 'b6f7bad19ccf938470572bec7ee342ecd87093ae',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/b6f7bad19ccf938470572bec7ee342ecd87093ae'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T02:05:53Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'updated html of homepage',
+ 'COMMIT SHA--- ': {'sha': '19fc455cf506afb431de2ce40187ac67f56c552e',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/19fc455cf506afb431de2ce40187ac67f56c552e'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T01:46:06Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'commit merge',
+ 'COMMIT SHA--- ': {'sha': '26674d1fc6ea309be61838c1f04a8b9b13bf89cd',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/26674d1fc6ea309be61838c1f04a8b9b13bf89cd'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T01:45:58Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': "Merge branch 'master' of "
+                       'https://github.com/SlidingSteven/SecurityQuestionEvaluator',
+ 'COMMIT SHA--- ': {'sha': 'f6cb502694b46dfa173e620d7d738919a7fb6f22',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/f6cb502694b46dfa173e620d7d738919a7fb6f22'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T01:42:47Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'updated front end\n'
+                       '\n'
+                       'added an html page for safe and unsafe results\n'
+                       'altereed python code',
+ 'COMMIT SHA--- ': {'sha': 'f5839b1c15fea5adff8bfebca9ca0a016a37adee',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/f5839b1c15fea5adff8bfebca9ca0a016a37adee'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T20:12:49Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Fixed another button',
+ 'COMMIT SHA--- ': {'sha': 'ee67325cd2583c9269c3e01a1ea926525acc53f4',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/ee67325cd2583c9269c3e01a1ea926525acc53f4'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T20:07:30Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'changed some buttons',
+ 'COMMIT SHA--- ': {'sha': '3c8f07c85137235bb82f2d421fe0fd38418e2772',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/3c8f07c85137235bb82f2d421fe0fd38418e2772'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T20:01:25Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing up changes to readme.md',
+ 'COMMIT SHA--- ': {'sha': '074b21d04bb0eed57fd60b6327ebd6e1dd5fbb75',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/074b21d04bb0eed57fd60b6327ebd6e1dd5fbb75'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T20:00:29Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing up changes to readme.md',
+ 'COMMIT SHA--- ': {'sha': 'a06705ba22db41fbddb4c15e0bbe8b88e3fdd25a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/a06705ba22db41fbddb4c15e0bbe8b88e3fdd25a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T19:49:43Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing up small change to README.md',
+ 'COMMIT SHA--- ': {'sha': '50911533c7c84cc24130d8f1f4cba567b700a5a5',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/50911533c7c84cc24130d8f1f4cba567b700a5a5'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T19:44:21Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Submitting permutation options and cosmetic changes',
+ 'COMMIT SHA--- ': {'sha': '0b1255989c962a409dd778f30de46056f00e34c4',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/0b1255989c962a409dd778f30de46056f00e34c4'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-28T19:39:38Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Making changes to input page for the secure answer '
+                       'page',
+ 'COMMIT SHA--- ': {'sha': '922d4b8d7ee1bf4137b67f2de57cde1edb6f106c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/922d4b8d7ee1bf4137b67f2de57cde1edb6f106c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-28T19:32:23Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding the correct url evaluator output format',
+ 'COMMIT SHA--- ': {'sha': 'dbe35cbc16f9180ef81d7c4c1afe5901700880cc',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/dbe35cbc16f9180ef81d7c4c1afe5901700880cc'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-28T04:10:48Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': "Merge branch 'master' of "
+                       'https://github.com/SlidingSteven/SecurityQuestionEvaluator\n'
+                       'merging',
+ 'COMMIT SHA--- ': {'sha': '39049bcd350157a4d3d45d8ce50f0070f9adff68',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/39049bcd350157a4d3d45d8ce50f0070f9adff68'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-28T04:09:23Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'adding maiden name lookup',
+ 'COMMIT SHA--- ': {'sha': '5516eeaedbdf7931f8a0e68c37e9271490988d2f',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/5516eeaedbdf7931f8a0e68c37e9271490988d2f'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T22:10:58Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Fixed html and stuff',
+ 'COMMIT SHA--- ': {'sha': 'f631b5684ace9576776b61dbb499399c1ea0b86d',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/f631b5684ace9576776b61dbb499399c1ea0b86d'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T20:29:47Z',
+                       'email': '35318242+lisaegede@users.noreply.github.com',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'SQS Checker Logo',
+ 'COMMIT SHA--- ': {'sha': 'd2cd20b642f98c8ce8b1f85aa493dd9b42647548',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/d2cd20b642f98c8ce8b1f85aa493dd9b42647548'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T20:29:02Z',
+                       'email': '35318242+lisaegede@users.noreply.github.com',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'Front end of SQS Checker\n\nhtml,css files',
+ 'COMMIT SHA--- ': {'sha': 'd797a966299f20fc2113b7d16554e07f4fb0762a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/d797a966299f20fc2113b7d16554e07f4fb0762a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T20:10:11Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'pushing to heroku?',
+ 'COMMIT SHA--- ': {'sha': '4c278487d27705d2a4b1e3c2aacafb92fed41572',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/4c278487d27705d2a4b1e3c2aacafb92fed41572'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T19:40:05Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'committing to heroku',
+ 'COMMIT SHA--- ': {'sha': 'd773707b03fae4ebcea1197555f54a56ddf8ae0c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/d773707b03fae4ebcea1197555f54a56ddf8ae0c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T18:47:35Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Rough draft of the project',
+ 'COMMIT SHA--- ': {'sha': '92bff2d8a3528584432b0da9ba307305da691d3c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/92bff2d8a3528584432b0da9ba307305da691d3c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:09:07Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Clarifying what I said in the READme.md',
+ 'COMMIT SHA--- ': {'sha': '9fd519338bfefa9feaf84faa815352548e54cdf5',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9fd519338bfefa9feaf84faa815352548e54cdf5'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:05:31Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding template content to the site and some extra '
+                       'detail to the README.md',
+ 'COMMIT SHA--- ': {'sha': 'ea27c67886ec4647bd9fd9b219277676ac16a0af',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/ea27c67886ec4647bd9fd9b219277676ac16a0af'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:00:42Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding template content to the site',
+ 'COMMIT SHA--- ': {'sha': 'ee9c22b76cf5dd62383cd3577fa955cd110e3127',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/ee9c22b76cf5dd62383cd3577fa955cd110e3127'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:41:05Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': "Merge branch 'ProductionBranch' of "
+                       'https://github.com/SlidingSteven/SecurityQuestionEvaluator '
+                       'into ProductionBranch\n'
+                       'Merging the better formatted README with the new '
+                       'content.',
+ 'COMMIT SHA--- ': {'sha': '5c8a5b383423d6b0b686c9d3a08ff1c9790539f1',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/5c8a5b383423d6b0b686c9d3a08ff1c9790539f1'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:40:10Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing simple hello world flask app',
+ 'COMMIT SHA--- ': {'sha': 'c29a2f718225a2f4e718dfa13dcef2397eb7b668',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/c29a2f718225a2f4e718dfa13dcef2397eb7b668'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:15:53Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '9449a7aae2eef4a3e04be4040fa446fc07e9aaed',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9449a7aae2eef4a3e04be4040fa446fc07e9aaed'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:15:32Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '0493c53bbad49007b1c31e7a22e2a407befd60d0',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/0493c53bbad49007b1c31e7a22e2a407befd60d0'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:14:40Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '9125d062913165af443c4431ad449559c1e5ca10',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9125d062913165af443c4431ad449559c1e5ca10'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:08:08Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding some stuff for us to do',
+ 'COMMIT SHA--- ': {'sha': '239ed80d22c7d17edf8ee4e0ac4673e423ab7836',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/239ed80d22c7d17edf8ee4e0ac4673e423ab7836'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T22:50:57Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'First Commit',
+ 'COMMIT SHA--- ': {'sha': '1ad7e9de6fa141d3a0512ccfe8e7dcce7e4461ed',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/1ad7e9de6fa141d3a0512ccfe8e7dcce7e4461ed'}}
+
+BRANCH_NAME: activewebsite
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:44:26Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'removed old pipfile and pip lock. This is the first '
+                       'reachable website',
+ 'COMMIT SHA--- ': {'sha': '9e4fc8c4cf22b87f446c29b88fbe4615ab465eec',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9e4fc8c4cf22b87f446c29b88fbe4615ab465eec'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:40:38Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'remove pip files',
+ 'COMMIT SHA--- ': {'sha': 'b81fba29e90caa81a62eae29938feddb1afc9ea5',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/b81fba29e90caa81a62eae29938feddb1afc9ea5'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:38:19Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'remove pip files',
+ 'COMMIT SHA--- ': {'sha': '3a12e99ed99e1e9d51c8b9d5c69b6dc04feba240',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/3a12e99ed99e1e9d51c8b9d5c69b6dc04feba240'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:33:23Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing port change',
+ 'COMMIT SHA--- ': {'sha': '72ae849d55f73fd842953caeb7fb426ba1f683f9',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/72ae849d55f73fd842953caeb7fb426ba1f683f9'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:30:05Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing port change',
+ 'COMMIT SHA--- ': {'sha': '8393fb3bbdebf13c435b85912179185b0cf0df29',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/8393fb3bbdebf13c435b85912179185b0cf0df29'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:20:32Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'retrying pipfile',
+ 'COMMIT SHA--- ': {'sha': '695abafb7504cd2fd4cd7785f04932b374a5ee4c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/695abafb7504cd2fd4cd7785f04932b374a5ee4c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T23:17:36Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Add gunicorn to pipfile',
+ 'COMMIT SHA--- ': {'sha': '13bed0b78e2fa9135482707d33b1016c018fe81a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/13bed0b78e2fa9135482707d33b1016c018fe81a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T20:18:51Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing more team page stuff',
+ 'COMMIT SHA--- ': {'sha': '0bedc791917aab95d7c7679212702ca651fd7178',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/0bedc791917aab95d7c7679212702ca651fd7178'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T20:11:25Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing more team page stuff',
+ 'COMMIT SHA--- ': {'sha': '60d08d2a4d44f89fa97834a08143da33fa0cc0d0',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/60d08d2a4d44f89fa97834a08143da33fa0cc0d0'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T20:06:36Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'added styling to team page',
+ 'COMMIT SHA--- ': {'sha': 'a7551c9adcacf41fc860909c743419d313d1e32a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/a7551c9adcacf41fc860909c743419d313d1e32a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-03T19:05:49Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'adding team route',
+ 'COMMIT SHA--- ': {'sha': '1f0422211fb33f752b84e763cf9bb21de92dc3b0',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/1f0422211fb33f752b84e763cf9bb21de92dc3b0'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-12-02T22:58:53Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding more html tables to the site but still need to '
+                       'be moved around to look better',
+ 'COMMIT SHA--- ': {'sha': 'cde8bab13930afba2cfda875fdbbad42ba158645',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/cde8bab13930afba2cfda875fdbbad42ba158645'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T18:48:37Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'center input boxes html',
+ 'COMMIT SHA--- ': {'sha': '5c245dfe0be2f03da1634231e79ece3525f76868',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/5c245dfe0be2f03da1634231e79ece3525f76868'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T18:00:24Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'added team.html page + images',
+ 'COMMIT SHA--- ': {'sha': 'b6f7bad19ccf938470572bec7ee342ecd87093ae',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/b6f7bad19ccf938470572bec7ee342ecd87093ae'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T02:05:53Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'updated html of homepage',
+ 'COMMIT SHA--- ': {'sha': '19fc455cf506afb431de2ce40187ac67f56c552e',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/19fc455cf506afb431de2ce40187ac67f56c552e'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T01:46:06Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'commit merge',
+ 'COMMIT SHA--- ': {'sha': '26674d1fc6ea309be61838c1f04a8b9b13bf89cd',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/26674d1fc6ea309be61838c1f04a8b9b13bf89cd'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T01:45:58Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': "Merge branch 'master' of "
+                       'https://github.com/SlidingSteven/SecurityQuestionEvaluator',
+ 'COMMIT SHA--- ': {'sha': 'f6cb502694b46dfa173e620d7d738919a7fb6f22',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/f6cb502694b46dfa173e620d7d738919a7fb6f22'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-30T01:42:47Z',
+                       'email': 'lisaegede@ou.edu',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'updated front end\n'
+                       '\n'
+                       'added an html page for safe and unsafe results\n'
+                       'altereed python code',
+ 'COMMIT SHA--- ': {'sha': 'f5839b1c15fea5adff8bfebca9ca0a016a37adee',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/f5839b1c15fea5adff8bfebca9ca0a016a37adee'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T20:12:49Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Fixed another button',
+ 'COMMIT SHA--- ': {'sha': 'ee67325cd2583c9269c3e01a1ea926525acc53f4',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/ee67325cd2583c9269c3e01a1ea926525acc53f4'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T20:07:30Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'changed some buttons',
+ 'COMMIT SHA--- ': {'sha': '3c8f07c85137235bb82f2d421fe0fd38418e2772',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/3c8f07c85137235bb82f2d421fe0fd38418e2772'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T20:01:25Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing up changes to readme.md',
+ 'COMMIT SHA--- ': {'sha': '074b21d04bb0eed57fd60b6327ebd6e1dd5fbb75',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/074b21d04bb0eed57fd60b6327ebd6e1dd5fbb75'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T20:00:29Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing up changes to readme.md',
+ 'COMMIT SHA--- ': {'sha': 'a06705ba22db41fbddb4c15e0bbe8b88e3fdd25a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/a06705ba22db41fbddb4c15e0bbe8b88e3fdd25a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T19:49:43Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing up small change to README.md',
+ 'COMMIT SHA--- ': {'sha': '50911533c7c84cc24130d8f1f4cba567b700a5a5',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/50911533c7c84cc24130d8f1f4cba567b700a5a5'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-29T19:44:21Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Submitting permutation options and cosmetic changes',
+ 'COMMIT SHA--- ': {'sha': '0b1255989c962a409dd778f30de46056f00e34c4',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/0b1255989c962a409dd778f30de46056f00e34c4'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-28T19:39:38Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Making changes to input page for the secure answer '
+                       'page',
+ 'COMMIT SHA--- ': {'sha': '922d4b8d7ee1bf4137b67f2de57cde1edb6f106c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/922d4b8d7ee1bf4137b67f2de57cde1edb6f106c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-28T19:32:23Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding the correct url evaluator output format',
+ 'COMMIT SHA--- ': {'sha': 'dbe35cbc16f9180ef81d7c4c1afe5901700880cc',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/dbe35cbc16f9180ef81d7c4c1afe5901700880cc'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-28T04:10:48Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': "Merge branch 'master' of "
+                       'https://github.com/SlidingSteven/SecurityQuestionEvaluator\n'
+                       'merging',
+ 'COMMIT SHA--- ': {'sha': '39049bcd350157a4d3d45d8ce50f0070f9adff68',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/39049bcd350157a4d3d45d8ce50f0070f9adff68'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-28T04:09:23Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'adding maiden name lookup',
+ 'COMMIT SHA--- ': {'sha': '5516eeaedbdf7931f8a0e68c37e9271490988d2f',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/5516eeaedbdf7931f8a0e68c37e9271490988d2f'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T22:10:58Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Fixed html and stuff',
+ 'COMMIT SHA--- ': {'sha': 'f631b5684ace9576776b61dbb499399c1ea0b86d',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/f631b5684ace9576776b61dbb499399c1ea0b86d'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T20:29:47Z',
+                       'email': '35318242+lisaegede@users.noreply.github.com',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'SQS Checker Logo',
+ 'COMMIT SHA--- ': {'sha': 'd2cd20b642f98c8ce8b1f85aa493dd9b42647548',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/d2cd20b642f98c8ce8b1f85aa493dd9b42647548'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T20:29:02Z',
+                       'email': '35318242+lisaegede@users.noreply.github.com',
+                       'name': 'Lisa Egede'},
+ 'COMMIT MESSAGE--- ': 'Front end of SQS Checker\n\nhtml,css files',
+ 'COMMIT SHA--- ': {'sha': 'd797a966299f20fc2113b7d16554e07f4fb0762a',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/d797a966299f20fc2113b7d16554e07f4fb0762a'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T20:10:11Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'pushing to heroku?',
+ 'COMMIT SHA--- ': {'sha': '4c278487d27705d2a4b1e3c2aacafb92fed41572',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/4c278487d27705d2a4b1e3c2aacafb92fed41572'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T19:40:05Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'committing to heroku',
+ 'COMMIT SHA--- ': {'sha': 'd773707b03fae4ebcea1197555f54a56ddf8ae0c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/d773707b03fae4ebcea1197555f54a56ddf8ae0c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-11-19T18:47:35Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Rough draft of the project',
+ 'COMMIT SHA--- ': {'sha': '92bff2d8a3528584432b0da9ba307305da691d3c',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/92bff2d8a3528584432b0da9ba307305da691d3c'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:09:07Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Clarifying what I said in the READme.md',
+ 'COMMIT SHA--- ': {'sha': '9fd519338bfefa9feaf84faa815352548e54cdf5',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9fd519338bfefa9feaf84faa815352548e54cdf5'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:05:31Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding template content to the site and some extra '
+                       'detail to the README.md',
+ 'COMMIT SHA--- ': {'sha': 'ea27c67886ec4647bd9fd9b219277676ac16a0af',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/ea27c67886ec4647bd9fd9b219277676ac16a0af'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-25T00:00:42Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding template content to the site',
+ 'COMMIT SHA--- ': {'sha': 'ee9c22b76cf5dd62383cd3577fa955cd110e3127',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/ee9c22b76cf5dd62383cd3577fa955cd110e3127'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:41:05Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': "Merge branch 'ProductionBranch' of "
+                       'https://github.com/SlidingSteven/SecurityQuestionEvaluator '
+                       'into ProductionBranch\n'
+                       'Merging the better formatted README with the new '
+                       'content.',
+ 'COMMIT SHA--- ': {'sha': '5c8a5b383423d6b0b686c9d3a08ff1c9790539f1',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/5c8a5b383423d6b0b686c9d3a08ff1c9790539f1'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:40:10Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Pushing simple hello world flask app',
+ 'COMMIT SHA--- ': {'sha': 'c29a2f718225a2f4e718dfa13dcef2397eb7b668',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/c29a2f718225a2f4e718dfa13dcef2397eb7b668'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:15:53Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '9449a7aae2eef4a3e04be4040fa446fc07e9aaed',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9449a7aae2eef4a3e04be4040fa446fc07e9aaed'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:15:32Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '0493c53bbad49007b1c31e7a22e2a407befd60d0',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/0493c53bbad49007b1c31e7a22e2a407befd60d0'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:14:40Z',
+                       'email': '32606836+SlidingSteven@users.noreply.github.com',
+                       'name': 'Steven Tucker'},
+ 'COMMIT MESSAGE--- ': 'Update README.md',
+ 'COMMIT SHA--- ': {'sha': '9125d062913165af443c4431ad449559c1e5ca10',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/9125d062913165af443c4431ad449559c1e5ca10'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T23:08:08Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'Adding some stuff for us to do',
+ 'COMMIT SHA--- ': {'sha': '239ed80d22c7d17edf8ee4e0ac4673e423ab7836',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/239ed80d22c7d17edf8ee4e0ac4673e423ab7836'}}
+{'COMMIT AUTHOR--- ': {'date': '2019-10-24T22:50:57Z',
+                       'email': 'steven.tuckerba@ou.edu',
+                       'name': 'slidingsteven'},
+ 'COMMIT MESSAGE--- ': 'First Commit',
+ 'COMMIT SHA--- ': {'sha': '1ad7e9de6fa141d3a0512ccfe8e7dcce7e4461ed',
+                    'url': 'https://api.github.com/repos/SlidingSteven/SecurityQuestionEvaluator/git/trees/1ad7e9de6fa141d3a0512ccfe8e7dcce7e4461ed'}}
+
+BRANCH_NAME: dependabot/pip/cryptography-2.3
