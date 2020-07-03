@@ -3,9 +3,9 @@
 Typically, I use the [Security Question Evaluator](https://github.com/SlidingSteven/SecurityQuestionEvaluator) app as my "go-to" project, but an external dependency has been giving us issues so I decided it would be a good opportunity to showcase some of the other work I have done.
 
 ## Table of Contents
-* [Bigger Projects](#bigger-projects-)
+* [Bigger Projects](#bigger-projects)
   + [CenturyLink Automation Project](#CenturyLink-Automation-Project)
-  + [SecurityQuestionEvaluator](#SecurityQuestionEvaluator-)
+  + [SecurityQuestionEvaluator](#SecurityQuestionEvaluator)
   + [WCAGCompChecker](#WCAGCompChecker)
   + [IHubPublicVideoRecorder](#IHubPublicVideoRecorder)
 * [fitbit_API_demo.py](#fitbit_api_demo.py)
@@ -23,7 +23,7 @@ Typically, I use the [Security Question Evaluator](https://github.com/SlidingSte
 * [Big_12_Coaches.py](#big_12_coaches.py)
   + [Motivation](#motivation-4)
   + [About](#about-4)
-* [Deal with any Math?](#deal-with-any-math-)
+* [Deal with any Math?](#deal-with-any-math)
 
 ## Bigger Projects  
 
